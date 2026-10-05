@@ -1,0 +1,25 @@
+# Lokale Python-Umgebung
+.venv/
+
+# Automatisch erzeugte Python-Zwischendateien
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Lokale Editor-Einstellungen
+.vscode/
+
+# Laufzeitprotokolle
+logs/
+
+# Lokal erzeugtes Modell; wird durch train_model.py erstellt
+models/
+
+# Lokale Konfiguration und Zugangsdaten
+.env
+.env.*
+!.env.example
+
+# Betriebssystemdateien
+Thumbs.db
+.DS_Store
