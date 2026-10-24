@@ -216,7 +216,7 @@ Im lokalen Stream-Test am 22.09.2026:
 - Keine Abweichungen der Modellwerte und Warnentscheidungen
   gegenüber dem Offline-Test.
 - Mittlere Antwortzeit: 41,88 ms.
-- 95. Perzentil der Antwortzeit: 55,27 ms.
+- 95 Perzentil der Antwortzeit: 55,27 ms.
 
 Die Antwortzeit wird im sendenden Programm gemessen und umfasst
 die lokale HTTP-Anfrage bis zur Verarbeitung der Antwort.
